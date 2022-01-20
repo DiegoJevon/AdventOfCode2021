@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BingoV2 {
+public class Day04SquidBingo {
 
 	public static void main(String[] args) {
 		File file = new File("res/bingoTestCode.txt");
